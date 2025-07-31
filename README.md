@@ -17,7 +17,7 @@ A modern, responsive React frontend for SyncVault - your personal snippet manage
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/) (v18 or higher) or [Bun](https://bun.sh/)
-- SyncVault backend server running (see [backend README](../syncvault-backend/README.md))
+- SyncVault backend server running (see [backend README](https://github.com/varadsat/syncvault-backend/blob/main/README.md))
 - Modern web browser with JavaScript enabled
 
 ## Quick Start
@@ -206,10 +206,3 @@ npm run lint
 ## License
 
 This project is part of the SyncVault ecosystem.
-
-## Support
-
-For issues and questions:
-- Check the [backend documentation](../syncvault-backend/README.md)
-- Review the [WebSocket documentation](../syncvault-backend/docs/websocket.md)
-- Open an issue in the repository
